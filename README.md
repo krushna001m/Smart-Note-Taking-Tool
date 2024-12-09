@@ -32,7 +32,7 @@ Here are some ideas to benefit from this project:
 
 ### Demo
 
-Here is the demo of this [application](https://salahineo.github.io/smart-notes/)
+Here is the demo of this [application](https://notes.portfolio.salahineo.com/)
 
 ### Installation
 
