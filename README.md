@@ -12,7 +12,6 @@
 - [Installation](#installation)
 - [Technologies](#technologies)
 - [Contact](#contact)
-- [Copyright and license](#copyright-and-license)
 
 ### Goal
 
